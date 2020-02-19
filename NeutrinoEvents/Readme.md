@@ -2,7 +2,7 @@
 Introduction
 ============
 
-The main goal is to recognize patterns in particle events in neutrino detectors of liquid argon using the new algorithms based on tensor networks. We have the training and test images from  http://deeplearnphysics.org/.
+The main goal of this proposal is to recognize patterns in particle events in neutrino detectors of liquid argon using the new algorithms based on tensor networks. We have the training and test images from  http://deeplearnphysics.org/.
 
 The images are simulations of recordings of neutrino events topologies in a liquid argon detector. Examples of these recordings in a real experiments (ProtoDUNE) are here: https://www.youtube.com/watch?v=gI-u6j_tp1I.
 
