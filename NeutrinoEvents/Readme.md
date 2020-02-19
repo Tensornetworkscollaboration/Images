@@ -1,4 +1,7 @@
 
+Intro
+======
+
 The main goal is to recognize patterns in particle events in neutrino detectors of liquid argon using the new algorithms based on tensor networks. We have the training and test images from  http://deeplearnphysics.org/.
 
 The images are simulations of recordings of neutrino events topologies in a liquid argon detector. Examples of these recordings in a real experiments (ProtoDUNE) are here: https://www.youtube.com/watch?v=gI-u6j_tp1I.
@@ -12,7 +15,7 @@ WORKFLOW:
 
 
 
-Tasks 1:
+**Tasks 1:
 
 Study available open-source algorithms of TN for MNIST:
 
@@ -22,7 +25,7 @@ Study available open-source algorithms of TN for MNIST:
 
 Note: Here, someone can study more in-depth all libraries and classes of these backends
 
-Tasks 2:
+**Tasks 2:
 
 -Develop the tutorials of http://deeplearnphysics.org/
 
@@ -44,7 +47,7 @@ These tutorials need the following background programs:
 
 *Pytorch
 
-Tasks 3:
+**Tasks 3:
 
 -Merge algorithms of MPS and TN to classify neutrino events using the open data from DL physics  http://deeplearnphysics.org/.
 
