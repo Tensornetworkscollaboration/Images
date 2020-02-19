@@ -6,9 +6,10 @@ The images are simulations of recordings of neutrino events topologies in a liqu
 Events are storaged in the following page: https://www.phy.bnl.gov/twister/bee/set/protodune/gallery/event/list/
 
 
-===============================================================================================================
-===============================================================================================================
-Workflow:
+
+WORKFLOW:
+=========
+
 
 
 Tasks 1:
