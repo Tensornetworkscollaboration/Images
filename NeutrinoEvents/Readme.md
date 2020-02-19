@@ -10,7 +10,7 @@ Events are storaged in the following page: https://www.phy.bnl.gov/twister/bee/s
 
 
 
-WORKFLOW:
+Workflow:
 =========
 
 
@@ -35,7 +35,7 @@ a) Interpret the data readers of images
 
 b)  Browsing and semantic segmentation
 
-c) Convolutional neural networks for training and testing 
+c) Convolutional neural networks for training and testing for open data
 
 These tutorials need the following background programs:
 
