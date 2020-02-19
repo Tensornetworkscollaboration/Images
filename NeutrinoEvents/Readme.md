@@ -9,6 +9,7 @@ Tasks 1:
 Study available open-source algorithms of TN for MNIST:
 
 -MPS @ Pytorch (https://github.com/jemisjoky/TorchMPS)
+
 -Tensor networks @ Tensorflow (link is coming)
 
 Note: Here, someone can study more in-depth all libraries and classes of these backends
