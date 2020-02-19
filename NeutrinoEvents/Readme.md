@@ -26,8 +26,11 @@ c) Convolutional neural networks for training and testing
 These tutorials need the following background programs:
 
 *ROOT (>6.0)
+
 *Larcv2
+
 *Tensorflow
+
 *Pytorch
 
 Tasks 3:
