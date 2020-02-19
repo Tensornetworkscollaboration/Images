@@ -20,7 +20,9 @@ Tasks 2:
 Mainly:
 
 a) Interpret the data readers of images
+
 b)  Browsing and semantic segmentation
+
 c) Convolutional neural networks for training and testing 
 
 These tutorials need the following background programs:
