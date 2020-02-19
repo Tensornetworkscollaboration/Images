@@ -4,7 +4,7 @@ Introduction
 
 The main goal of this proposal is to recognize patterns in particle events in neutrino detectors of liquid argon using the new algorithms based on tensor networks. We have the training and test images from  http://deeplearnphysics.org/.
 
-The images are simulations of recordings of neutrino events topologies in a liquid argon detector. Examples of these recordings in a real experiments (ProtoDUNE) are here: https://www.youtube.com/watch?v=gI-u6j_tp1I.
+The images are simulations of recordings of neutrino events topologies in a liquid argon detector. Examples of these recordings in real experiments (ProtoDUNE) are here: https://www.youtube.com/watch?v=gI-u6j_tp1I.
 
 Events are storaged in the following page: https://www.phy.bnl.gov/twister/bee/set/protodune/gallery/event/list/
 
